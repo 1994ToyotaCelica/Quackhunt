@@ -2,7 +2,7 @@ Hello
 
 Due to this code being a piece of ass, it needs a very specific file structure to work:
 
-				[place on your pc]/Quackhunt/Quackhunt/...
+	[place on your pc]/Quackhunt/Quackhunt/...
                 
 Don't change that or the program will shit itself.
 
