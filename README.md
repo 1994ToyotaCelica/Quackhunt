@@ -1,8 +1,12 @@
 Hello
 
 Due to this code being a piece of ass, it needs a very specific file structure to work:
-                <somewhere>/Quackhunt/Quackhunt/...
+				<somewhere>/Quackhunt/Quackhunt/...
+                
 Don't change that or the program will shit itself.
+
+**To use the program unpack the zip file into a desired destination and use as is.**
+
 Have fun :3
 
 ----------------------------------------------------------------------------------------------------
