@@ -1,5 +1,7 @@
 Hello
 
+This is a little game I made as a project for college. It's 100% original (legit, no scam) and totally not inspired by any 80s Nintendo titles.
+
 Due to this code being a piece of ass, it needs a very specific file structure to work:
 
 	[place on your pc]/Quackhunt/Quackhunt/...
